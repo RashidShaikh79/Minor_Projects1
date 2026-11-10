@@ -110,7 +110,7 @@ Some important features include:
 
 ## 👨‍💻 Developed By
 
-**Rashid Shaikh**
+**Md Rashid Alam**
 
 ## 📝 Conclusion
 
